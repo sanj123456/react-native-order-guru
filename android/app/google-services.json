@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866184921581",
+    "project_id": "myordering-online-tablet",
+    "storage_bucket": "myordering-online-tablet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866184921581:android:682329871263d77cf827e4",
+        "android_client_info": {
+          "package_name": "com.myorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866184921581-gqabd7hqkibnbpro3ihu5mhn03035dg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myorderingapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "866184921581-rgi3a0a2c19lmqb4tcov09n6jgs0gr8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myorderingapp",
+            "certificate_hash": "af43c3d8c9598d393982499492f8525ed4d1de9f"
+          }
+        },
+        {
+          "client_id": "866184921581-2pa6pi7kq02i4s9cp84nqj256tkptms2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkVL9gFFqqA6srAoXuzz-PeVFSYr00mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866184921581-2pa6pi7kq02i4s9cp84nqj256tkptms2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
